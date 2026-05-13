@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://aswinsundan.github.io/houghttags/sitemap.xml
+Sitemap: https://aswinsundan.github.io/thoughttags/sitemap.xml
